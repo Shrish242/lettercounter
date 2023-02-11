@@ -3,7 +3,7 @@
 print("welcome to the program")
 def project2():
              from collections import Counter
-             a = input("Enter your text here:")
+             a = input("Please enter your text here:")
              my_counter = Counter(a)
              print (my_counter)
              continue_program = input("Do you want to continue the program? (y/n): ")
